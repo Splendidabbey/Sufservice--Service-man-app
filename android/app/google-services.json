@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310898099435",
+    "project_id": "suf-service",
+    "storage_bucket": "suf-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310898099435:android:a1c8364e3f48d6c682aaae",
+        "android_client_info": {
+          "package_name": "com.sufservice.serviceman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxxfWyOn3GGHhTISJrr6bjEaq4Dq7p88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310898099435:android:dbc387fd6624eff582aaae",
+        "android_client_info": {
+          "package_name": "com.sufservice.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxxfWyOn3GGHhTISJrr6bjEaq4Dq7p88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
