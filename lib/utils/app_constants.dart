@@ -4,7 +4,7 @@ class AppConstants {
   static const String appName = 'Sufservice Serviceman';
   static const String appUser = 'Serviceman App';
   static const String appVersion = '2.8';
-  static const String baseUrl = 'https://sufservice.ukachi.com';
+  static const String baseUrl = 'https://admin.sufservice.com';
   static const bool avoidMaintenanceMode = false;
   static const String loginUrl = '/api/v1/serviceman/auth/login';
   static const String configUrl = '/api/v1/serviceman/config';
